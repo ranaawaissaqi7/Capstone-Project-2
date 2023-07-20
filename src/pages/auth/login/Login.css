@@ -1,0 +1,22 @@
+.login-bg-image{
+    background-image: url("../../../assests/auth_image/cover.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login .input{
+    height: 4rem;
+    
+    border-radius: 20px !important;
+}
+.login button{
+    height:4rem;
+    border-radius: 20px;
+}
+.login .google{
+    width: 10rem !important;
+}
+.login .facebook{
+    width: 10rem !important;
+}

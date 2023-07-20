@@ -1,0 +1,22 @@
+.signUp-bg-image{
+    background-image: url("../../../assests/auth_image/cover.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.signUp .input{
+    height: 4rem;
+    
+    border-radius: 20px !important;
+}
+.signUp button{
+    height:4rem;
+    border-radius: 20px;
+}
+.signUp .google{
+    width: 10rem !important;
+}
+.signUp .facebook{
+    width: 10rem !important;
+}

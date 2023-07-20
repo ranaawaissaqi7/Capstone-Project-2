@@ -1,0 +1,13 @@
+
+.side-bar img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.side-bar ul li .nav-link{
+    color:darkgrey !important;
+    font-size: larger;
+}
+.side-bar ul li .nav-link:hover{
+color: green !important;
+}

@@ -1,0 +1,17 @@
+.section-setting{
+    background-color:#e3e9ef;
+    height: 100%;
+    
+}
+ .right-side{
+    border-radius: 30px;
+}
+.notification .togal{
+    border-radius: 30px;
+}
+.delete-account-section .delete-account{
+    border-radius: 30px;
+}
+.section-setting .change-password-container{
+    border-radius: 30px;
+}
